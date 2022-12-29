@@ -1,5 +1,7 @@
 import logo from './logo.svg';
+import NavBar from './NavBar';
 import ItemListConteiner from './ItemListConteiner';
+
 import './App.css';
 
 function App() {
@@ -20,7 +22,8 @@ function App() {
         </a>
       </header>
 
-<ItemListConteiner />
+      <NavBar />
+      <ItemListConteiner />
 
     </div>
   );
