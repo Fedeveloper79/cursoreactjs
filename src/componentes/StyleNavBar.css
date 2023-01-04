@@ -4,5 +4,16 @@ justify-content: space-between;
 width: 800px;
 margin: 5px;
 padding: 10px;
+align-items: center;
 }
 
+.barra {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 170px;
+    height: 150px;
+    margin: 30px;
+}
