@@ -1,6 +1,7 @@
 
 import NavBar from './componentes/NavBar';
 import ItemListConteiner from './componentes/ItemListConteiner';
+import CartWidget from './componentes/CartWidget';
 
 import './App.css';
 
@@ -11,6 +12,7 @@ function App() {
        
       <NavBar />
       <ItemListConteiner />
+      <CartWidget />
 
       
         
