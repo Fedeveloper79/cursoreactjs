@@ -44,6 +44,7 @@ const ItemListConteiner = () => {
       
       <ItemCount />
       <ItemList articulos={products}/>
+      
       </div>
   )
 
